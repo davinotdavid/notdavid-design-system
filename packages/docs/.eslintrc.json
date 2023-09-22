@@ -18,5 +18,5 @@ module.exports = {
 */
 
 {
-  "extends": "@ignite-ui/eslint-config"
+  "extends": "@notdavid-ui/eslint-config"
 }
