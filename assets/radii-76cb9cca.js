@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-5fc188ad.js";import{M as s,U as e}from"./index-098d9b5f.js";import{r as m}from"./index-e12a8d2f.js";import{T as a}from"./TokensGrid-b5a6585c.js";import{u as r}from"./index-cf712c1b.js";import"./index-c0290abd.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-e97c6857.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./extends-98964cd2.js";import"./index-7356f5c8.js";import"./index-356e4a49.js";function n(o){const i=Object.assign({h1:"h1"},r(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Radii"}),`
+`,t.jsx(i.h1,{id:"radii",children:"Radii"}),`
+`,t.jsx(e,{children:t.jsx(a,{tokens:m})})]})}function D(o={}){const{wrapper:i}=Object.assign({},r(),o.components);return i?t.jsx(i,Object.assign({},o,{children:t.jsx(n,o)})):n(o)}export{D as default};
+//# sourceMappingURL=radii-76cb9cca.js.map

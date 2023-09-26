@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-5fc188ad.js";import"./chunk-S4VUQJ4A-93fba9b9.js";import{M as r}from"./index-098d9b5f.js";import{u as i}from"./index-cf712c1b.js";import"./index-c0290abd.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-e97c6857.js";import"../sb-preview/runtime.js";import"./react-18-7e272925.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./extends-98964cd2.js";import"./index-7356f5c8.js";import"./index-356e4a49.js";function e(o){const n=Object.assign({h1:"h1",p:"p"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(r,{title:"Home"}),`
+`,t.jsx(n.h1,{id:"notdavid-ui",children:"notdavid UI"}),`
+`,t.jsx(n.p,{children:"The design system to rule them all!"})]})}function b(o={}){const{wrapper:n}=Object.assign({},i(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(e,o)})):e(o)}export{b as default};
+//# sourceMappingURL=home-8207d135.js.map

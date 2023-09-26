@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-5fc188ad.js";import{M as r,U as i}from"./index-098d9b5f.js";import{b as m}from"./index-e12a8d2f.js";import{T as a}from"./TokensGrid-b5a6585c.js";import{u as e}from"./index-cf712c1b.js";import"./index-c0290abd.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-e97c6857.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./extends-98964cd2.js";import"./index-7356f5c8.js";import"./index-356e4a49.js";function s(o){const n=Object.assign({h1:"h1"},e(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(r,{title:"Tokens/Font Sizes"}),`
+`,t.jsx(n.h1,{id:"font-sizes",children:"Font Sizes"}),`
+`,t.jsx(i,{children:t.jsx(a,{tokens:m,hasRemValue:!0})})]})}function C(o={}){const{wrapper:n}=Object.assign({},e(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(s,o)})):s(o)}export{C as default};
+//# sourceMappingURL=font-sizes-337fce4f.js.map

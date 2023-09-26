@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-5fc188ad.js";import{M as s,U as r}from"./index-098d9b5f.js";import{l as m}from"./index-e12a8d2f.js";import{T as a}from"./TokensGrid-b5a6585c.js";import{u as i}from"./index-cf712c1b.js";import"./index-c0290abd.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-e97c6857.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./extends-98964cd2.js";import"./index-7356f5c8.js";import"./index-356e4a49.js";function o(n){const e=Object.assign({h1:"h1"},i(),n.components);return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Line Heights"}),`
+`,t.jsx(e.h1,{id:"line-heights",children:"Line Heights"}),`
+`,t.jsx(r,{children:t.jsx(a,{tokens:m})})]})}function D(n={}){const{wrapper:e}=Object.assign({},i(),n.components);return e?t.jsx(e,Object.assign({},n,{children:t.jsx(o,n)})):o(n)}export{D as default};
+//# sourceMappingURL=line-heights-8a52eb02.js.map
